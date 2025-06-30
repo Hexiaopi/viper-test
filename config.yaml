@@ -2,9 +2,9 @@ http:
   host: localhost
   port: 8080
   debug: true
-mysql:
+db:
   user: admin
-  password: password
+  password: ""
   host: 127.0.0.1
   port: 3306
   database: test
